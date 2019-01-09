@@ -1,0 +1,14 @@
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\BusinessDomainClasses.dll.config
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\BusinessDomainClasses.dll
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\BusinessDomainClasses.pdb
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\EntityFramework.dll
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\EntityFramework.xml
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.csprojAssemblyReference.cache
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.csproj.CopyComplete
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.dll
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.pdb
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.Migrations.BusinessClassesMigrations.InitalMigration.resources
+C:\Users\becke\Source\Repos\RADChristmasExam\BusinessDomainClasses\obj\Debug\BusinessDomainClasses.csproj.GenerateResource.cache
